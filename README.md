@@ -1,4 +1,4 @@
-<img width="1412" height="628" alt="image" src="https://github.com/user-attachments/assets/0dfde5f9-a028-4bd9-9a13-7dd3b31b6921" /># Hi, I'm Muhammad Fahdlan bin roslan
+# Hi, I'm Muhammad Fahdlan Bin Roslan
 
 I am Computer Science student at UiTM interested in software engineering and AI.
 

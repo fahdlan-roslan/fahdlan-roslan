@@ -1,16 +1,18 @@
-## Hi there 👋
+<img width="1412" height="628" alt="image" src="https://github.com/user-attachments/assets/0dfde5f9-a028-4bd9-9a13-7dd3b31b6921" /># Hi, I'm Muhammad Fahdlan bin roslan
 
-<!--
-**fahdlan-roslan/fahdlan-roslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Computer Science student at UiTM interested in software engineering and AI.
 
-Here are some ideas to get you started:
+## About me
+- Studying: CDCS230 Computer Science, UiTM
+- Currently learning: SPECIAL TOPICS IN COMPUTER SCIENCE
+- My FYP area: still deciding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+Python, Git, SQL
+
+## Projects
+- [Project name](link-to-your-repository): one sentence about it
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/muhammad-fahdlan-roslan/
+- Email: fahdlanroslan@gmail.com

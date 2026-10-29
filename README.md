@@ -11,7 +11,7 @@ I am Computer Science student at UiTM.
 Python, SQL
 
 ## Projects
-- [customer-feedback-review]([link-to-your-repository](https://github.com/fahdlan-roslan/customer-feedback-review)): The findings help businesses and marketers understand customer opinions, improve marketing strategies, and make data-driven decisions based on real user feedback.
+- [customer-feedback-review](https://github.com/fahdlan-roslan/customer-feedback-review): The findings help businesses and marketers understand customer opinions, improve marketing strategies, and make data-driven decisions based on real user feedback.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/muhammad-fahdlan-roslan/
